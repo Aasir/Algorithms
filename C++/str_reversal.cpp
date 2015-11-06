@@ -32,7 +32,7 @@ void reverseWords(string &s){
 }
 
 int main(){
-    std::string in_str = "NIGGA MY IS MESSI";
+    std::string in_str = "BOY MY IS MESSI";
     std::cout << "String: " <<  in_str << std::endl;
     reverseWords(in_str);
     std::cout << "Reverse String: " <<  in_str << std::endl;
